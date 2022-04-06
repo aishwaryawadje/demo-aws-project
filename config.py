@@ -1,4 +1,4 @@
-customhost = "projectlast.cqmddinhawol.us-west-2.rds.amazonaws.com"
+customhost = "project2.cqmddinhawol.us-west-2.rds.amazonaws.com"
 customuser = "admin"
 custompass = "admin123"
 customdb = "projectlast"
